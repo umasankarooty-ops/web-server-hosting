@@ -1,5 +1,9 @@
-# Assignment 2: Web Server Hosting Lab
+<<<<<<< HEAD
+# Web Server Hosting
 
+=======
+# web-server-hosting
+>>>>>>> 03c762118ecca9b693e96eb404863f5706a03b98
 ## 1. Project Overview
 
 This project demonstrates web server installation, configuration, hosting, and security testing using an AWS EC2 Linux instance.
